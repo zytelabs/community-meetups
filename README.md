@@ -7,6 +7,7 @@ Slide decks from the Zyte Web Scraping Community Meetups, hosted via GitHub Page
 | # | Date | Deck | Embed URL |
 |---|------|------|-----------|
 | 1 | June 25, 2026 | [meetup-1/](meetup-1/) | `https://zytelabs.github.io/community-meetups/meetup-1/` |
+| 2 | September 24, 2026 | [meetup-2/](meetup-2/) | `https://zytelabs.github.io/community-meetups/meetup-2/` |
 
 ## Embedding a deck
 
